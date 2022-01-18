@@ -66,4 +66,4 @@ O - <b> O favorecido que mais recebeu compras foi ILTON DOS REIS PEREIRA.</b>
 
 P - Descreva qual a abordagem utilizada para desenvolver o código para os ítens de K a O.
 
-P - <b>C#</b>
+P - <b>PHP</b>
